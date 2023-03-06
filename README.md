@@ -8,7 +8,7 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=mitrian&style=flat-square&color=blue" alt=""/>
   <h1>
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> My name is Dmitrii Zykov
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
 </h1>
 </div align="center">
 
